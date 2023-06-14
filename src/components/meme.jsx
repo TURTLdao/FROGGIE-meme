@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function Meme() {
-	const FROGGIES_IMG = "https://pbs.twimg.com/profile_images/1654219239706841091/I1O5j0V7_400x400.jpg";
+	const FROGGIES_IMG = "https://github.com/TURTLdao/TURTL-images/blob/main/forggie.png?raw=true";
 
 	const [meme, setMeme] = useState({
 		topText: "",
